@@ -1,6 +1,6 @@
 # Snake Game (Java)
 
-This is a simple version of the classic Snake game, written in Java as part of a class assignment for my CSE 131 Class at WashU. The snake moves around a grid, eats food pellets to grow, and tracks the player’s score.
+This is a simple version of the classic Snake game, written in Java as part of a class assignment for my CSE 131 Class at WashU. The goal of  this assignment was to create the popular online "Snake" in Java  and creating different features that we see within the game such as how the snake moves around a grid, eats food pellets to grow, and tracks the player’s score.
 
 ## 🐍 Features
 - Real-time movement of the snake
